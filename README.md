@@ -87,9 +87,9 @@ El modelo sugirió:
 - Integración con modelo LLM mediante API
 - Base vectorial para recuperación de información (RAG)
 - Sistema de logging y monitoreo
+
 ## 6. Justificación técnica de decisiones
 | Decisión | Justificación |
-|----------|--------------|
 | Uso de IA generativa | Permite respuestas naturales y adaptativas |
 | Arquitectura RAG | Reduce alucinaciones y mejora precisión |
 | APIs desacopladas | Facilita escalabilidad y mantenimiento |
@@ -137,7 +137,6 @@ El LLM recomendó diseñar el sistema considerando:
 ## Fases del Proyecto
 
 | Fase | Actividades | Duración |
-|------|------------|----------|
 | Investigación | Análisis del problema y requerimientos | 1 semana |
 | Diseño | Arquitectura y flujo conversacional | 1 semana |
 | Desarrollo MVP | Backend, integración API y frontend | 2 semanas |
