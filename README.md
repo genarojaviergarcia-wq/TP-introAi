@@ -136,8 +136,8 @@ El LLM recomendó diseñar el sistema considerando:
 - Fine-tuning futuro con conversaciones reales
 ## 10. Cronograma del proyecto
 ## Fases del Proyecto
-
 | Fase | Actividades | Duración |
+|------|------------|----------|
 | Investigación | Análisis del problema y requerimientos | 1 semana |
 | Diseño | Arquitectura y flujo conversacional | 1 semana |
 | Desarrollo MVP | Backend, integración API y frontend | 2 semanas |
