@@ -90,6 +90,7 @@ El modelo sugirió:
 
 ## 6. Justificación técnica de decisiones
 | Decisión | Justificación |
+|----------|--------------|
 | Uso de IA generativa | Permite respuestas naturales y adaptativas |
 | Arquitectura RAG | Reduce alucinaciones y mejora precisión |
 | APIs desacopladas | Facilita escalabilidad y mantenimiento |
